@@ -11,4 +11,4 @@ Southeast University, Meituan, Fudan University
   <img width="100%" alt="FastPillars architecture" src="pipeline.png">
 </div>
 
-# Code coming soon
+# We are arranging the code and will release our code soon.
