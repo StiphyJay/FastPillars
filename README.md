@@ -1,8 +1,4 @@
 # FastPillars
-## 🗓️ Todo list
--  Release the code for nuScenes dataset
--  Release the code for Waymo dataset
-  
 <div align='center'>
 **FastPillars:
 A Deployment-friendly Pillar-based 3D Detector**\
