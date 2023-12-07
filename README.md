@@ -19,6 +19,7 @@ Southeast University, Meituan, Fudan University
 <div>
 <img width="60%" alt="FastPillars architecture" src="figs/MAPE_quantative.png">
 </div>
+
 ```
 @article{zhou2023fastpillars,
   title={FastPillars: A Deployment-friendly Pillar-based 3D Detector},
