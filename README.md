@@ -16,13 +16,8 @@ Southeast University, Meituan, Fudan University
 </div>
 
 <div>
-  <img width="50%" alt="FastPillars architecture" src="figs/Backbone_pipeline.png">
+  <img width="50%" alt="FastPillars architecture" src="figs/Backbone_pipeline.png"> <img width="50%" alt="FastPillars architecture" src="figs/blocks_number.png">
 </div>
-
-<div>
-  <img width="50%" alt="FastPillars architecture" src="figs/blocks_number.png">
-</div>
-
 <div>
   <img width="70%" alt="FastPillars architecture" src="figs/MAPE_quantative.png">
 </div>
