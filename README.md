@@ -1,5 +1,4 @@
 # FastPillars
-
 <div align='center'>
 **FastPillars:
 A Deployment-friendly Pillar-based 3D Detector**\
