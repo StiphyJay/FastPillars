@@ -14,11 +14,13 @@ Southeast University, Meituan, Fudan University
   <img width="70%" alt="FastPillars architecture" src="figs/pillar-encoding.png">
 </div>
 <div>
-  <img width="50%" src="figs/Backbone_pipeline.png"> <img width="50%" src="figs/blocks_number.png">
+<img width="50%" src="figs/blocks_number.png"> <img width="50%" src="figs/Backbone_pipeline.png"> 
 </div>
 <div>
-  <img width="70%" alt="FastPillars architecture" src="figs/MAPE_quantative.png">
+<img width="60%" alt="FastPillars architecture" src="figs/MAPE_quantative.png">
 </div>
+
+```
 @article{zhou2023fastpillars,
   title={FastPillars: A Deployment-friendly Pillar-based 3D Detector},
   author={Zhou, Sifan and Tian, Zhi and Chu, Xiangxiang and Zhang, Xinyu and Zhang, Bo and Lu, Xiaobo and Feng, Chengjian and Jie, Zequn and Chiang, Patrick Yin and Ma, Lin},
