@@ -10,6 +10,12 @@ Southeast University, Meituan, Fudan University
 <div>
   <img width="100%" alt="FastPillars architecture" src="figs/pipeline.png">
 </div>
+<div>
+  <img width="100%" alt="FastPillars architecture" src="figs/pillar-encoding.png">
+</div>
+<div>
+  <img width="100%" alt="FastPillars architecture" src="figs/Backbone_pipeline.png">
+</div>
 
 ```
 @article{zhou2023fastpillars,
