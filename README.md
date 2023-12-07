@@ -1,14 +1,14 @@
 # FastPillars
+## 🗓️ Todo list
+-  Release the code for nuScenes dataset
+-  Release the code for Waymo dataset
+  
 <div align='center'>
 **FastPillars:
 A Deployment-friendly Pillar-based 3D Detector**\
 *Sifan Zhou, Zhi Tian, Xiangxiang Chu, Xinyu Zhang, Bo Zhang, Xiaobo Lu, Chengjian Feng, Zequn Jie, Patrick Yin Chiang and Lin Ma*\
 Southeast University, Meituan, Fudan University
 [arXiv](https://arxiv.org/abs/2302.02367)
-
-## 🗓️ Todo list
--  Release the code for nuScenes dataset
--  Release the code for Waymo dataset
 
 <div>
   <img width="100%" alt="FastPillars architecture" src="figs/pipeline.png">
