@@ -7,6 +7,8 @@ A Deployment-friendly Pillar-based 3D Detector**\
 Southeast University, Meituan, Fudan University
 [arXiv](https://arxiv.org/abs/2302.02367)
 
+If you have any problems, please email me sifanjay@gmail.com
+
 <div>
   <img width="100%" alt="FastPillars architecture" src="figs/pipeline.png">
 </div>
