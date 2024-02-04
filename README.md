@@ -24,7 +24,6 @@ If you have any problems, please email me sifanjay@gmail.com
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=StiphyJay/FastPillars&type=Date)](https://star-history.com/#StiphyJay/FastPillars&Date)
-
 ```
 @article{zhou2023fastpillars,
   title={FastPillars: A Deployment-friendly Pillar-based 3D Detector},
