@@ -1,5 +1,4 @@
 # FastPillars
-<div align='center'>
 
 **FastPillars:
 A Deployment-friendly Pillar-based 3D Detector**\
@@ -25,6 +24,7 @@ If you have any problems, please email me sifanjay@gmail.com
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=StiphyJay/FastPillars&type=Date)](https://star-history.com/#StiphyJay/FastPillars&Date)
 ```
+## Citation
 @article{zhou2023fastpillars,
   title={FastPillars: A Deployment-friendly Pillar-based 3D Detector},
   author={Zhou, Sifan and Tian, Zhi and Chu, Xiangxiang and Zhang, Xinyu and Zhang, Bo and Lu, Xiaobo and Feng, Chengjian and Jie, Zequn and Chiang, Patrick Yin and Ma, Lin},
