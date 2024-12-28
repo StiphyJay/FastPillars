@@ -37,7 +37,7 @@ The deployment of 3D detectors strikes one of the major challenges in real-world
 
 - **Simple and SPConv-free:** Two sentences method summary: We employ a  Max-and-Attention Pillar Encoding (MAPE) module to enhance pillar feature extraction and a computation reallocation principle to improve the bev feature representation. The SPConv-free design enables our method to be seamlessly accelerated using TensorRT.
 
-- **Fast and Accurate**: Our best single model achieves *73.3* mAPH on Waymo val set and *71.58* NDS on nuScenes test set while running at 20FPS+. 
+- **Fast and Accurate**: Our best single model achieves *73.3* mAPH on Waymo val set and *71.8* NDS on nuScenes test set while running at 20FPS+. 
 
 ## Main results
 
