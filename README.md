@@ -117,3 +117,4 @@ This project is not possible without multiple great opensourced codebases. We li
 * [mmdetection](https://github.com/open-mmlab/mmdetection)
 * [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 * [PillarNet](https://github.com/VISION-SJTU/PillarNet-LTS)
+* [RepVGG](https://github.com/DingXiaoH/RepVGG)
