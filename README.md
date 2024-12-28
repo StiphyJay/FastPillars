@@ -58,11 +58,11 @@ The deployment of 3D detectors strikes one of the major challenges in real-world
 |FastPillars | 3       |  77.1 / 76.7 | 77.8 / 74.6 | 74.2 / 73.2      |
 
 
-#### 3D detection on nuScenes val set ([Model Weights](https://drive.google.com/file/d/1OmCO_E-YFr9AXjqGwj6_5Dp4JirBV7Ml/view?usp=sharing)) 
+#### 3D detection on nuScenes val set  
 
-|         |  mAP | NDS  |car  | truck |bus  | trailer | CV  | Ped |Motor | Bic |TC  | barrier |
-|---------|---------|--------|---------|--------|---------|--------|---------|--------|---------|--------|---------|--------|
-|FastPillars |  61.3   | 68.2 |   87.3   | 58.7 |71.9   | 39.8 |20.2   | 86.6 |63.3   | 45.8 |72.8   | 66.7 |
+|         | Model Weights|  mAP | NDS  |car  | truck |bus  | trailer | CV  | Ped |Motor | Bic |TC  | barrier |
+|---------|---------|--------|---------|--------|---------|--------|---------|--------|---------|--------|---------|--------|--------|
+|FastPillars |[Model Weights](https://drive.google.com/file/d/1OmCO_E-YFr9AXjqGwj6_5Dp4JirBV7Ml/view?usp=sharing)| 61.3   | 68.2 |   87.3   | 58.7 |71.9   | 39.8 |20.2   | 86.6 |63.3   | 45.8 |72.8   | 66.7 | 
 
 
 #### 3D detection on nuScenes test set 
