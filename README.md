@@ -67,11 +67,9 @@ The deployment of 3D detectors strikes one of the major challenges in real-world
 
 #### 3D detection on nuScenes test set 
 
-|         |  mAP | NDS |
-|---------|---------|--------|
-|FastPillars |  66.8   | 71.8   |
-     
-
+|         |  mAP | NDS  |car  | truck |bus  | trailer | CV  | Ped |Motor | Bic |TC  | barrier |
+|---------|--------|---------|--------|---------|--------|---------|--------|---------|--------|---------|--------|--------|
+|FastPillars | 66.8   | 71.8 |   87.3 | 58.0 | 66.0 | 62.3 | 34.5 | 87.4 |70.3| 47.9 | 81.5 | 72.8| 
 
 All results are tested on a Titan RTX GPU with batch size 1.
 
